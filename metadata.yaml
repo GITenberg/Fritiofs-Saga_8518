@@ -1,5 +1,8 @@
 _repo: Fritiofs-Saga_8518
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tegnér, Esaias
@@ -19,6 +22,8 @@ description: "Friðþjófs saga hins frœkna (Frithiof's Saga) is a legendary sa
   \ Iceland which in its present form is from ca 1300. It is a continuation from The\
   \ Saga of Thorstein Víkingsson (Þorsteins saga Víkingssonar). It takes place principally\
   \ in Norway during the 8th century.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8518#Fritiofs-Saga
 gutenberg_issued: '2005-07-01'
 gutenberg_type: Text
 identifiers:
